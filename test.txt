@@ -1,3 +1,6 @@
 Archivo de prueba para git
 
 Texto inicial...
+
+
+Regresamos al primer commit 
