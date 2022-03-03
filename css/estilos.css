@@ -3,3 +3,17 @@ body {
     font-family: 'Courier New', Courier, monospace;
     color: #aaa;
 }
+
+header{
+    color: #fff;
+    background-color: #B784FF;
+}
+
+@media screen and  (min-width: 768px){
+    header  {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
