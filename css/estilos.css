@@ -12,7 +12,9 @@ header{
 a {
     text-decoration: none;
 }
-
+p {
+    text-align: justify;
+}
 @media screen and  (min-width: 768px){
     header  {
         display: flex;
